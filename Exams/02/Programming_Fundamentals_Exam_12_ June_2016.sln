@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Numbers", "01_Numbers\01_Numbers.csproj", "{9754D7F7-4308-4E87-A468-F31D8C49814F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-SoftUni-Coffee-Orders", "02-SoftUni-Coffee-Orders\02-SoftUni-Coffee-Orders.csproj", "{AE99BAA6-AC67-477D-B768-BBD51798114F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03+Football+League", "03+Football+League\03+Football+League.csproj", "{8D95C38E-2A20-4549-8A90-C9D16954BCBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9754D7F7-4308-4E87-A468-F31D8C49814F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9754D7F7-4308-4E87-A468-F31D8C49814F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9754D7F7-4308-4E87-A468-F31D8C49814F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9754D7F7-4308-4E87-A468-F31D8C49814F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE99BAA6-AC67-477D-B768-BBD51798114F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE99BAA6-AC67-477D-B768-BBD51798114F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE99BAA6-AC67-477D-B768-BBD51798114F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE99BAA6-AC67-477D-B768-BBD51798114F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D95C38E-2A20-4549-8A90-C9D16954BCBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D95C38E-2A20-4549-8A90-C9D16954BCBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D95C38E-2A20-4549-8A90-C9D16954BCBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D95C38E-2A20-4549-8A90-C9D16954BCBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
